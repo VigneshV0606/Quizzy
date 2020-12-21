@@ -1,0 +1,25 @@
+*********************************************************
+                      QUIZZZING!!!
+*********************************************************
+
+       QUIZZYY IS AN ULTIMATE QUIZ COMPETETION HELD 
+             FOR STUDENTS OF AGE GROUP 12-17
+
+==========================================================
+               ********* HOW TO PLAY********
+*> A QUESTION WLL START TO APPEAR ON THE SCREEN .
+ONCE THE QUESTION IS DISPLAYED THE 4 POSSIBLE ANSWERS WILL BE SHOWN
+*>ENTER THE ANSWER WHICH U THINK IS RIGHT 
+*>YOU WILL BE AWARDED FIRST WITH 20 BONUS POINTS
+*>FOR EVERY WRONG ANSWER 2 POINTS WILL BE DETECTTED ....
+    IF U RETAIN ALL THE 20 POINTS U R CONSIDERED AS THE WINNER..
+*>IF U WANT ANY HELP U CAN USE THREE LIFELINES
+ 1. 50:50 - TWO OPTIONS ARE DISPLAYED OUT
+ 2. SWAP  - YOU CAN EXCHANGE THE QUESTION
+ 3. CLUE  - INFORMATION TO GUESS THE CORRECT ANSWER
+
+----------------------------------------------------------------
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!                               
+                     ALL THE BEST 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+----------------------------------------------------------------
